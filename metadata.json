@@ -1,0 +1,6 @@
+{
+  "name": "Parabola Secant Explorer",
+  "description": "An interactive math visualization showing y = x² with draggable points, a connecting secant line, y-intercept tracking, and integer-coordinate celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
